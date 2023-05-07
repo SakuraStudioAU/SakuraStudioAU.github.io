@@ -6,6 +6,8 @@ image: "img/posts/test.jpeg"
 showonlyimage:  false
 ---
 
+![image](/img/posts/test.jpeg)
+
 # Welcome to Sakura Cake Studio!
 
 At Sakura Cake Studio, we believe that every occasion deserves a special touch of sweetness. My name is [Your Name], and as the founder and sole proprietor of Sakura Cake Studio, I'm passionate about creating exquisite homemade cakes that will make your celebrations truly memorable.
