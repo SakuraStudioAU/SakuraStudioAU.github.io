@@ -2,6 +2,8 @@
 title: "Test Post"
 date: 2023-05-07T22:09:22+10:00
 draft: false
+image: "img/posts/test.jpeg"
+showonlyimage:  false
 ---
 
 # Welcome to Sakura Cake Studio!
