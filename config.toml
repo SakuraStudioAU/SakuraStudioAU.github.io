@@ -1,4 +1,4 @@
-baseURL = 'https://sakurastudioau.github.io'
+baseURL = 'https://cake.sakurastudio.online'
 languageCode = 'en-us'
 title = 'Sakura Cake Studio'
 theme = 'hugo-creative-portfolio-theme'
